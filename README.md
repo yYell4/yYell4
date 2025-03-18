@@ -2,8 +2,8 @@
 👩🏾‍💻 Robotics and AI student at Edge Hill University<br>
 💡Inspiered and dedicated in becoming a machine learning engineer and enterpenuer<br>
 🎯 Project based coding to learn and develop knowledge<br>
-🕹️LQA Technician / Game tester and casual gamer on the free time<br>
-📍Contact me: 
+🕹️LQA Technician / Game tester at Universally Speaking<br>
+📍Contact me: email s.olisah0@gmail.com
 <br>
 
 # 💻 Tech Stack:
