@@ -3,9 +3,9 @@
 💡Inspiered and dedicated in becoming a machine learning engineer and enterpenuer<br>
 🎯 Project based coding to learn and develop knowledge<br>
 🕹️LQA Technician / Game tester at Universally Speaking<br>
-📍Contact me: email s.olisah0@gmail.com
-<br>
+📍Contact me: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sarah-olisah-378923282" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/sarah-olisah-378923282?trk=profile-badge">Sarah Olisah</a></div>
 
+              
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
@@ -18,5 +18,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yYell4&icon=4&color=5)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
